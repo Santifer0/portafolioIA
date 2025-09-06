@@ -28,9 +28,9 @@ Se creó estructura de carpetas y inicialización del entorno, se redactaron pre
 
 
 ## Evidencias
-![Exploración inicial](docs\assets\exploracionInicial.png)
-![Descripción del dataset](docs\assets\descripcion.png)
-![Visualizaciones](docs\assets\visualizaciones.png)
+![Exploración inicial](\assets\exploracionInicial.png)
+![Descripción del dataset](\assets\descripcion.png)
+![Visualizaciones](\assets\visualizaciones.png)
 
 
 ## Reflexión
