@@ -26,9 +26,9 @@ Práctica de integración de datos combinando viajes de taxis de NYC, tabla de z
 Se cargó el dataset de viajes en formato parquet (forma mas eficiente), la tabla de zonas en csv y un calendario de eventos en json. Se normalizaron los datos y se prepararon para un posterior join. Se realizaron dos joins, primero trips con zonas  y después el resultado de el primer join con el calendario (flag de día especial). Se calcularon métricas agregadas por borough y métricas como beneficio por kilometro y tasa de propina. También se hizo un análisis de las metricas en días "Especiales" comparado con días normales. Por último se hizo un análisis de correlaciones, útil para ganar insights de negocio valiosos.
 
 ## Evidencias
-- ![Análisis por borough](\assets\analisisPorBoroughE3.png){ width="420" }
-- ![Técnicas para manejar datasets grandes](\assets\tecnicasDatasetE3.png){ width="420" }
-- ![Matriz de correlaciones](\assets\matrizCorrelacionesE3.png){ width="420" }
+- ![Análisis por borough](../assets/analisisPorBoroughE3.png){ width="420" }
+- ![Técnicas para manejar datasets grandes](../assets/\tecnicasDatasetE3.png){ width="420" }
+- ![Matriz de correlaciones](../assets/matrizCorrelacionesE3.png){ width="420" }
 
 ## Reflexión
 Esta actividad conlleva nuevos retos ya que tuvimos que trabajar con distintas tablas de distintas fuentes lo que agrega un componente de normalización y join de datos que anteriormente no lo tomabamos tanto en cuenta y el dataset con el que se trabajó era excepcionalmente grande por lo que fué muy útil ver técticas para hacer mas eficiente el procesado de los datos.

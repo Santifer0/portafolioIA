@@ -28,10 +28,10 @@ Práctica de análisis exploratorio sobre el dataset público de títulos de Net
 Se cargó el dataset desde una URL pública usando pandas y se hizo una exploración básica sobre las filas, columnas y estadísticas del dataset. Se detectaron datos faltantes y datos atípicos en el dataset. Se analizaron y se generaron visualizaciones sobre las tendiencias temporales y geográficas del dataset, se generó un dashboard final que engloba el análisis anterior.
 
 ## Evidencias
-- ![Visualización de datos faltantes](\assets\dataFaltanteVisualE2.png){ width="420" }
-- ![Visualización de datos atípicos](\assets\analisisDatosAtipicosE2.png){ width="420" }
-- ![Visualización de análisis temporal](\assets\analisisTemporalE2.png){ width="420" }
-- ![Visualización de análisis geográfico](\assets\analisisGeograficoE2.png){ width="420" }
+- ![Visualización de datos faltantes](../assets/dataFaltanteVisualE2.png){ width="420" }
+- ![Visualización de datos atípicos](../assets/analisisDatosAtipicosE2.png){ width="420" }
+- ![Visualización de análisis temporal](../assets/analisisTemporalE2.png){ width="420" }
+- ![Visualización de análisis geográfico](../assets/analisisGeograficoE2.png){ width="420" }
 
 ## Reflexión
 La actividad fué util para profundizar en técnicas de análisis y visualización de un dataset con componentes más complejos como el componente temporal y geográfico. Asi como para asentar los conocimientos sobre métodos de las librerías más conocidas para el análisis de datos en python.
