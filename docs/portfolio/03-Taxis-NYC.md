@@ -27,7 +27,7 @@ Se cargó el dataset de viajes en formato parquet (forma mas eficiente), la tabl
 
 ## Evidencias
 - ![Análisis por borough](../assets/analisisPorBoroughE3.png){ width="420" }
-- ![Técnicas para manejar datasets grandes](../assets/\tecnicasDatasetE3.png){ width="420" }
+- ![Técnicas para manejar datasets grandes](../assets/tecnicasDatasetE3.png){ width="420" }
 - ![Matriz de correlaciones](../assets/matrizCorrelacionesE3.png){ width="420" }
 
 ## Reflexión
