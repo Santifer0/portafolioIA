@@ -9,12 +9,13 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 (`01-...`, `02-...`).
 
 ## Unidad 1 — EDA y Calidad de Datos
-- 01 — Exploración Iris: patrones de mediciones y especies
-- 02 — Exploración Netflix: catálogo, tendencias y calidad
-- 03 — Taxis NYC: integración multi-fuente y análisis por borough
-- 04 — Ames: datos faltantes sin trampas (anti-leakage) — [04-Datos-Faltantes-Ames.md](04-Datos-Faltantes-Ames.md)
+- 01 — Exploración Iris: patrones de mediciones y especies — [01-Exploración-Iris.md](01-Exploración-Iris.md)
+- 02 — Exploración Netflix: catálogo, tendencias y calidad — [02-Exploración-Netflix.md](02-Exploración-Netflix.md)
+- 03 — Taxis NYC: integración multi-fuente y análisis por borough — [03-Taxis-NYC.md](03-Taxis-NYC.md)
+
 
 ## Unidad 2 — Preprocesamiento y Modelado
+- 04 — Ames: datos faltantes (anti-leakage) — [04-Datos-Faltantes-Ames.md](04-Datos-Faltantes-Ames.md)
 - 05 — Outliers y escalado en Ames: orden correcto del pipeline — [05-Outliers-y-Escalado-Ames.md](05-Outliers-y-Escalado-Ames.md)
 - 06 — Fairness: detectar y corregir sesgo (Titanic/Boston) — [06-Fairness-Titanic-Boston.md](06-Fairness-Titanic-Boston.md)
 - 07 — Feature engineering en precios de viviendas — [07-Feature-Engineering-Viviendas.md](07-Feature-Engineering-Viviendas.md)
