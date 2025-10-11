@@ -1,3 +1,4 @@
+---
 title: "Práctico 01 — Exploración Iris"
 date: 2025-08-13
 ---

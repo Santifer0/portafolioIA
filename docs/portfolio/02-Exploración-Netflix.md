@@ -1,3 +1,4 @@
+---
 title: "Práctico 02 — Exploración Netflix"
 date: 2025-09-06
 ---

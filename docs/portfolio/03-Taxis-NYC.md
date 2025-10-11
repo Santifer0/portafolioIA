@@ -1,3 +1,4 @@
+---
 title: "Práctico 03 — Taxis NYC"
 date: 2025-09-06
 ---
