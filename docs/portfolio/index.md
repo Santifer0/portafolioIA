@@ -20,6 +20,12 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - 06 — Fairness: detectar y corregir sesgo (Titanic/Boston) — [06-Fairness-Titanic-Boston.md](06-Fairness-Titanic-Boston.md)
 - 07 — Feature engineering en precios de viviendas — [07-Feature-Engineering-Viviendas.md](07-Feature-Engineering-Viviendas.md)
 
+## Unidad 3 — Ingeniería de Features y Reducción Dimensional
+- 08 — Feature Engineering avanzada (sintético + Ames) — [08-Feature-Engineering-Avanzada.md](08-Feature-Engineering-Avanzada.md)
+- 09 — Encoding avanzado y manejo de cardinalidad — [09-Encoding-Avanzado.md](09-Encoding-Avanzado.md)
+- 10 — PCA y Feature Selection (Ames) — [10-PCA-Feature-Selection.md](10-PCA-Feature-Selection.md)
+- 11 — Temporal Feature Engineering (Retail) — [11-Temporal-Features.md](11-Temporal-Features.md)
+
 
 
 
