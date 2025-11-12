@@ -39,7 +39,7 @@ Modelos con muchas variables numéricas y colinealidad (como Ames Housing) se be
 ![](../assets/Entrada10img2.png){ width="420" }
 ![](../assets/Entrada10img3.png){ width="420" }
 ![](../assets/Entrada10img4.png){ width="420" }
-![](../assets/Entrada10img5.png){ width="420" }
+![](../assets/entrada10img5.png){ width="420" }
 ![](../assets/Entrada10img6.png){ width="420" }
 ## Reflexión
 PCA demostró ser útil para reducir colinealidad y estabilizar modelos lineales, aunque implica sacrificar interpretabilidad directa, por eso se complementó con el análisis de loadings para entender qué variables dominan cada componente. En selección de variables, el enfoque que mejor equilibró velocidad, robustez e interpretabilidad fue combinar un filtrado rápido (correlación o MI) con un método embebido como Lasso o Random Forest, reservando los wrappers como etapa final cuando el espacio ya está acotado. El principal trade-off apareció al forzar demasiada reducción: se pierde señal y el desempeño puede degradarse. En ese sentido, la selección mantiene una explicación más directa del fenómeno, mientras que PCA exige pasos adicionales de interpretación.
