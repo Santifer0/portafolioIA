@@ -5,8 +5,6 @@ date: 2025-01-01
 
 # Portafolio
 
-Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas páginas numeradas
-(`01-...`, `02-...`).
 
 ## Unidad 1 — EDA y Calidad de Datos
 - 01 — Exploración Iris: patrones de mediciones y especies — [01-Exploración-Iris.md](01-Exploración-Iris.md)
@@ -25,6 +23,15 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - 09 — Encoding avanzado y manejo de cardinalidad — [09-Encoding-Avanzado.md](09-Encoding-Avanzado.md)
 - 10 — PCA y Feature Selection (Ames) — [10-PCA-Feature-Selection.md](10-PCA-Feature-Selection.md)
 - 11 — Temporal Feature Engineering (Retail) — [11-Temporal-Features.md](11-Temporal-Features.md)
+
+## Unidad 4 — Datos No Estructurados y Geoespacial
+- 12 — Geoespacial con GeoPandas — [12-Geoespacial.md](12-Geoespacial.md)
+- 13 — Preprocesamiento de Imágenes — [13-Preprocesamiento-Imagenes.md](13-Preprocesamiento-Imagenes.md)
+- 14 — Procesamiento de Audio — [14-Audio.md](14-Audio.md)
+
+## Unidad 5 — Laboratorios Google Cloud
+- 15 — Intro a Google Cloud Labs — [15-Google-Lab-1.md](15-Google-Lab-1.md)
+- 16 — Pipeline con Cloud Dataprep — [16-Dataprep-Pipeline.md](16-Dataprep-Pipeline.md)
 
 
 
